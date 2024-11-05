@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://obegoica.github.io/VOq/sitemap_index.txt
+Sitemap: https://obegoica.github.io/XMZ/sitemap_index.txt
+Sitemap: https://obegoica.github.io/pXi/sitemap_index.txt
+Sitemap: https://obegoica.github.io/psk/sitemap_index.txt
